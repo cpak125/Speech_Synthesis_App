@@ -28,6 +28,7 @@ html {
   .voiceinator {
     padding: 2rem;
     width: 50rem;
+    height: auto;
     margin: 0 auto;
     border-radius: 1rem;
     position: relative;
@@ -104,7 +105,4 @@ html {
         margin:10px;
     }
 
-    /* textarea {
-        height: 15rem;
-      } */
   }
