@@ -12,3 +12,9 @@ https://compassionate-archimedes-4e6710.netlify.com/
 2. CSS
 3. Javascript
 4. Web Speech API
+
+## Things I learned
+1. Web Speech API - Speech Synthesis Interface
+2. Practiced mapping through an array 
+3. Used input type="range" for the first time
+4. Discovered the css calc() function
