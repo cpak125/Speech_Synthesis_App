@@ -16,5 +16,6 @@ https://compassionate-archimedes-4e6710.netlify.com/
 ## Things I learned
 1. Web Speech API - Speech Synthesis Interface
 2. Practiced mapping through an array 
-3. Used input type="range" for the first time
-4. Discovered the css calc() function
+3. Using "this" keyword 
+4. Used input type="range" for the first time
+5. Discovered the css calc() function
