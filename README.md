@@ -13,7 +13,7 @@ https://compassionate-archimedes-4e6710.netlify.com/
 3. Javascript
 4. Web Speech API
 
-## Things I learned
+## Things I Learned
 1. Web Speech API - Speech Synthesis Interface
 2. Practiced mapping through an array 
 3. Using "this" keyword 
